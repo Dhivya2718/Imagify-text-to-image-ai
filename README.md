@@ -2,7 +2,6 @@
 
 Transform your words into stunning visuals using AI! Imagify lets users describe an idea and instantly generate images, powered by advanced AI and a secure MongoDB backend.
 
-![Imagify Screenshot](https://github.com/Dhivya2718/Imagify-text-to-image-ai/assets/your-image-path)
 
 ---
 
@@ -44,5 +43,4 @@ Transform your words into stunning visuals using AI! Imagify lets users describe
 
 ---
 
-## 🗂️ Project Structure
 
